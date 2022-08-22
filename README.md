@@ -1,1 +1,1 @@
-# OOP Retake Exam - 22-Aug-2022
+Excercise Descriptions are located in the Repository's Word Document File
